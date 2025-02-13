@@ -1,0 +1,5 @@
+../Core/Src/7SEG.c:23:6:Display_Number	24	static
+../Core/Src/7SEG.c:38:6:clearDisplay	8	static
+../Core/Src/7SEG.c:49:6:display_1	8	static
+../Core/Src/7SEG.c:55:6:display_2	8	static
+../Core/Src/7SEG.c:65:6:display_0	8	static

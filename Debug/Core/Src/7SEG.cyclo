@@ -1,0 +1,5 @@
+../Core/Src/7SEG.c:23:6:Display_Number	2
+../Core/Src/7SEG.c:38:6:clearDisplay	1
+../Core/Src/7SEG.c:49:6:display_1	1
+../Core/Src/7SEG.c:55:6:display_2	1
+../Core/Src/7SEG.c:65:6:display_0	1

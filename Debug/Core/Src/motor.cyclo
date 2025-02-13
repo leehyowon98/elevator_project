@@ -1,0 +1,6 @@
+../Core/Src/motor.c:15:6:initMotor	1
+../Core/Src/motor.c:32:6:stepMotor	1
+../Core/Src/motor.c:40:6:rotateSteps	3
+../Core/Src/motor.c:62:6:rotateDegrees	1
+../Core/Src/motor.c:68:6:rotateMotorContinuous	3
+../Core/Src/motor.c:82:6:stopMotor	1

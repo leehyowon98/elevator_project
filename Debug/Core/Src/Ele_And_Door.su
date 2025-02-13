@@ -1,0 +1,3 @@
+../Core/Src/Ele_And_Door.c:17:6:openDoors	16	static
+../Core/Src/Ele_And_Door.c:55:6:closeDoors	16	static
+../Core/Src/Ele_And_Door.c:82:6:moveElevatorTo	16	static
