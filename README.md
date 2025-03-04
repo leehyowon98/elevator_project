@@ -45,7 +45,6 @@ ElevatorStatus elevatorStatus;
 ## 개발 환경
 - **IDE**: STM32CubeIDE
 - **프로그래밍 언어**: C
-- **디버깅 장치**: ST-Link V2
 
 ## 빌드 및 실행 방법
 1. STM32CubeIDE에서 프로젝트를 엽니다.
@@ -57,6 +56,4 @@ ElevatorStatus elevatorStatus;
 - 오류 발생 시 `Error_Handler()` 함수에서 디버깅 가능
 - 사용자는 인터럽트 콜백 및 상태 변수를 수정하여 기능을 확장할 수 있음
 
-## 라이선스
-이 소프트웨어는 STM32Cube 라이선스를 따릅니다. 자세한 내용은 프로젝트 폴더 내 `LICENSE` 파일을 참조하십시오.
 
